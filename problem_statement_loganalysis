@@ -1,0 +1,10 @@
+Problem Statement
+Write a program to read Sample.log and analyze it.
+In Analysis do following operatiions:
+- How many time particular device connected?
+- How many devices encounter error?
+- How many devices succesfully sent data?
+- What is max time process data?
+- What is min time process data?
+
+To Calculate process data use Device Connected time and device disconnected time.

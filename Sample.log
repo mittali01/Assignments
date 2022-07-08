@@ -1,0 +1,23 @@
+[May 04 15:52:05 2022] [INFO] [DEV0001] Device : Connected
+[May 04 15:52:05 2022] [DEBUG] [DEV0001] Device : Data Size 10MB
+[May 04 15:55:05 2022] [INFO] [DEV0001] Device Data : SUCCSESS
+[May 04 15:55:05 2022] [INFO] [DEV0111] Device : Connected
+[May 04 15:56:05 2022] [DEBUG] [DEV0111] Device : Data Size 1MB
+[May 04 15:56:15 2022] [INFO] [DEV0001] Device : Disconnected
+[May 04 15:56:35 2022] [ERROR] [DEV0111] Device Data : Ingestion error
+[May 04 15:56:35 2022] [INFO] [DEV0111] Device Data : Retry in next cycle
+[May 04 15:56:40 2022] [INFO] [DEV0111] Device : Disconnected
+[May 04 15:58:05 2022] [INFO] [DEV1000] Device : Connected
+[May 04 15:58:25 2022] [INFO] [DEV0101] Device : Connected
+[May 04 15:59:05 2022] [DEBUG] [DEV0101] Device : Data Size 2MB
+[May 04 15:59:55 2022] [DEBUG] [DEV1000] Device : Data Size 4MB
+[May 04 16:00:15 2022] [ERROR] [DEV1000] Device Data : Timeout
+[May 04 16:01:05 2022] [INFO] [DEV1000] Device Data : Retry in next cycle
+[May 04 16:01:55 2022] [INFO] [DEV1000] Device : Disconnected
+[May 04 16:03:05 2022] [INFO] [DEV0101] Device Data : SUCCSESS
+[May 04 16:04:05 2022] [INFO] [DEV0101] Device : Disconnected
+[May 04 16:04:15 2022] [INFO] [DEV0001] Device : Connected
+[May 04 16:04:35 2022] [DEBUG] [DEV0001] Device : Data Size 5MB
+[May 04 16:04:55 2022] [ERROR] [DEV0001] Device Data : Ingestion error
+[May 04 16:05:15 2022] [INFO] [DEV0001] Device Data : Retry in next cycle
+[May 04 16:05:15 2022] [INFO] [DEV0001] Device : Disconnected
